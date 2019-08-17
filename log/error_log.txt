@@ -1,0 +1,170 @@
+[ 2018-09-17 20:58:55 ] function (create_table) line 89:
+
+SQLite创建表PORT80失败:table PORT80 already exists
+命令: CREATE TABLE PORT80(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 20:58:56 ] function (create_table) line 89:
+
+SQLite创建表PORT1994失败:table PORT1994 already exists
+命令: CREATE TABLE PORT1994(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 20:58:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6000失败:table PORT6000 already exists
+命令: CREATE TABLE PORT6000(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 20:58:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6001失败:table PORT6001 already exists
+命令: CREATE TABLE PORT6001(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 20:58:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6002失败:table PORT6002 already exists
+命令: CREATE TABLE PORT6002(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 20:58:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6003失败:table PORT6003 already exists
+命令: CREATE TABLE PORT6003(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 20:58:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6004失败:table PORT6004 already exists
+命令: CREATE TABLE PORT6004(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 20:58:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6005失败:table PORT6005 already exists
+命令: CREATE TABLE PORT6005(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT80失败:table PORT80 already exists
+命令: CREATE TABLE PORT80(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT1994失败:table PORT1994 already exists
+命令: CREATE TABLE PORT1994(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6000失败:table PORT6000 already exists
+命令: CREATE TABLE PORT6000(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6001失败:table PORT6001 already exists
+命令: CREATE TABLE PORT6001(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6002失败:table PORT6002 already exists
+命令: CREATE TABLE PORT6002(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6003失败:table PORT6003 already exists
+命令: CREATE TABLE PORT6003(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6004失败:table PORT6004 already exists
+命令: CREATE TABLE PORT6004(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 89:
+
+SQLite创建表PORT6005失败:table PORT6005 already exists
+命令: CREATE TABLE PORT6005(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:41 ] function (create_table) line 89:
+
+SQLite创建表PORT80失败:table PORT80 already exists
+命令: CREATE TABLE PORT80(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT1994失败:table PORT1994 already exists
+命令: CREATE TABLE PORT1994(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT6000失败:table PORT6000 already exists
+命令: CREATE TABLE PORT6000(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT6001失败:table PORT6001 already exists
+命令: CREATE TABLE PORT6001(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT6002失败:table PORT6002 already exists
+命令: CREATE TABLE PORT6002(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT6003失败:table PORT6003 already exists
+命令: CREATE TABLE PORT6003(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT6004失败:table PORT6004 already exists
+命令: CREATE TABLE PORT6004(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT6005失败:table PORT6005 already exists
+命令: CREATE TABLE PORT6005(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:12:42 ] function (create_table) line 89:
+
+SQLite创建表PORT6006失败:table PORT6006 already exists
+命令: CREATE TABLE PORT6006(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT80失败:table PORT80 already exists
+命令: CREATE TABLE PORT80(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT1994失败:table PORT1994 already exists
+命令: CREATE TABLE PORT1994(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT6000失败:table PORT6000 already exists
+命令: CREATE TABLE PORT6000(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT6001失败:table PORT6001 already exists
+命令: CREATE TABLE PORT6001(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT6002失败:table PORT6002 already exists
+命令: CREATE TABLE PORT6002(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT6003失败:table PORT6003 already exists
+命令: CREATE TABLE PORT6003(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT6004失败:table PORT6004 already exists
+命令: CREATE TABLE PORT6004(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT6005失败:table PORT6005 already exists
+命令: CREATE TABLE PORT6005(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+
+[ 2018-09-17 21:22:41 ] function (create_table) line 89:
+
+SQLite创建表PORT6006失败:table PORT6006 already exists
+命令: CREATE TABLE PORT6006(ID INTEGER PRIMARY KEY,TIME TEXT,NetFlow INTEGER);
+

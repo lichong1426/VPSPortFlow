@@ -1,0 +1,68 @@
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 80 已存在
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 1994 已存在
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6000 已存在
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6001 已存在
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6002 已存在
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6003 已存在
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6004 已存在
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6005 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 80 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 1994 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6000 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6001 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6002 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6003 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6004 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6005 已存在
+
+[ 2018-09-17 21:22:41 ] function (add_port) line 29:
+
+iptables添加端口失败:端口 6006 已存在
+

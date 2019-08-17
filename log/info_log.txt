@@ -1,0 +1,411 @@
+[ 2018-09-17 20:58:55 ] function (main) line 40:
+
+*********程序版本 V1.0*********   编译日期2018-09-17
+
+[ 2018-09-17 20:58:55 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 80 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 1994 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 6000 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 6001 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 6002 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 6003 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 6004 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (add_port) line 58:
+
+iptables添加端口 6005 成功
+
+[ 2018-09-17 20:58:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT80成功
+命令:INSERT INTO PORT80 VALUES (NULL,'2018-09-17 20:58:56',0);
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT1994成功
+命令:INSERT INTO PORT1994 VALUES (NULL,'2018-09-17 20:58:56',216117);
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6000成功
+命令:INSERT INTO PORT6000 VALUES (NULL,'2018-09-17 20:58:56',5865102294);
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6001成功
+命令:INSERT INTO PORT6001 VALUES (NULL,'2018-09-17 20:58:56',2372784292);
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6002成功
+命令:INSERT INTO PORT6002 VALUES (NULL,'2018-09-17 20:58:56',1294957009);
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6003成功
+命令:INSERT INTO PORT6003 VALUES (NULL,'2018-09-17 20:58:56',5191912783);
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6004成功
+命令:INSERT INTO PORT6004 VALUES (NULL,'2018-09-17 20:58:56',2863597484);
+
+[ 2018-09-17 20:58:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6005成功
+命令:INSERT INTO PORT6005 VALUES (NULL,'2018-09-17 20:58:56',62062637);
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:08:56 ] function (create_table) line 95:
+
+SQLite创建表PORT6006成功
+
+[ 2018-09-17 21:08:56 ] function (add_port) line 58:
+
+iptables添加端口 6006 成功
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT80成功
+命令:INSERT INTO PORT80 VALUES (NULL,'2018-09-17 21:08:56',0);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT1994成功
+命令:INSERT INTO PORT1994 VALUES (NULL,'2018-09-17 21:08:56',309495);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6000成功
+命令:INSERT INTO PORT6000 VALUES (NULL,'2018-09-17 21:08:56',5871459065);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6001成功
+命令:INSERT INTO PORT6001 VALUES (NULL,'2018-09-17 21:08:56',2372784292);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6002成功
+命令:INSERT INTO PORT6002 VALUES (NULL,'2018-09-17 21:08:56',1294957009);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6003成功
+命令:INSERT INTO PORT6003 VALUES (NULL,'2018-09-17 21:08:56',5224440588);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6004成功
+命令:INSERT INTO PORT6004 VALUES (NULL,'2018-09-17 21:08:56',2863597484);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6005成功
+命令:INSERT INTO PORT6005 VALUES (NULL,'2018-09-17 21:08:56',62062637);
+
+[ 2018-09-17 21:08:56 ] function (insert) line 203:
+
+SQLite数据插入表PORT6006成功
+命令:INSERT INTO PORT6006 VALUES (NULL,'2018-09-17 21:08:56',0);
+
+[ 2018-09-17 21:12:41 ] function (main) line 40:
+
+*********程序版本 V1.0*********   编译日期2018-09-17
+
+[ 2018-09-17 21:12:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 80 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 1994 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 6000 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 6001 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 6002 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 6003 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 6004 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 6005 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (add_port) line 58:
+
+iptables添加端口 6006 成功
+
+[ 2018-09-17 21:12:42 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT80成功
+命令:INSERT INTO PORT80 VALUES (NULL,'2018-09-17 21:12:42',0);
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT1994成功
+命令:INSERT INTO PORT1994 VALUES (NULL,'2018-09-17 21:12:42',309495);
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT6000成功
+命令:INSERT INTO PORT6000 VALUES (NULL,'2018-09-17 21:12:42',5871459065);
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT6001成功
+命令:INSERT INTO PORT6001 VALUES (NULL,'2018-09-17 21:12:42',2372784292);
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT6002成功
+命令:INSERT INTO PORT6002 VALUES (NULL,'2018-09-17 21:12:42',1294957009);
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT6003成功
+命令:INSERT INTO PORT6003 VALUES (NULL,'2018-09-17 21:12:42',5224440588);
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT6004成功
+命令:INSERT INTO PORT6004 VALUES (NULL,'2018-09-17 21:12:42',2863597484);
+
+[ 2018-09-17 21:12:42 ] function (insert) line 203:
+
+SQLite数据插入表PORT6005成功
+命令:INSERT INTO PORT6005 VALUES (NULL,'2018-09-17 21:12:42',62062637);
+
+[ 2018-09-17 21:12:43 ] function (insert) line 203:
+
+SQLite数据插入表PORT6006成功
+命令:INSERT INTO PORT6006 VALUES (NULL,'2018-09-17 21:12:42',0);
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (open_db) line 62:
+
+打开数据库./database/2018_09.db成功
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT80成功
+命令:INSERT INTO PORT80 VALUES (NULL,'2018-09-17 21:22:41',0);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT1994成功
+命令:INSERT INTO PORT1994 VALUES (NULL,'2018-09-17 21:22:41',500163);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT6000成功
+命令:INSERT INTO PORT6000 VALUES (NULL,'2018-09-17 21:22:41',5885588652);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT6001成功
+命令:INSERT INTO PORT6001 VALUES (NULL,'2018-09-17 21:22:41',2372784292);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT6002成功
+命令:INSERT INTO PORT6002 VALUES (NULL,'2018-09-17 21:22:41',1294957009);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT6003成功
+命令:INSERT INTO PORT6003 VALUES (NULL,'2018-09-17 21:22:41',5224440588);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT6004成功
+命令:INSERT INTO PORT6004 VALUES (NULL,'2018-09-17 21:22:41',2863597484);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT6005成功
+命令:INSERT INTO PORT6005 VALUES (NULL,'2018-09-17 21:22:41',62062637);
+
+[ 2018-09-17 21:22:41 ] function (insert) line 203:
+
+SQLite数据插入表PORT6006成功
+命令:INSERT INTO PORT6006 VALUES (NULL,'2018-09-17 21:22:41',0);
+
